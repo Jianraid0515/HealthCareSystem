@@ -1,0 +1,11 @@
+{
+  "latest_version": "2608.1.01",
+  "release_date": "2026-08-18",
+  "windows": {
+    "url": "",
+    "sha256": ""
+  },
+  "changelog": [
+    "1.串流媒體解析異常修正。"
+  ]
+}
