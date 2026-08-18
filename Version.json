@@ -1,11 +1,13 @@
 {
-  "latest_version": "2608.1.01",
+  "latest_version": "2608.2.02",
   "release_date": "2026-08-18",
   "windows": {
-    "url": "",
+    "url": "https://github.com/Jianraid0515/HealthCareSystem/releases/download/V2608.2.02/YSHMInstaller_v2608.2.02.exe",
     "sha256": ""
   },
   "changelog": [
-    "1.串流媒體解析異常修正。"
+    "1.線上更版支援",
+    "2.健康配色新面板",
+    "3.新增操作圖標"
   ]
 }
