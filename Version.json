@@ -1,8 +1,8 @@
 {
-  "latest_version": "2608.3.09",
+  "latest_version": "2608.3.08",
   "release_date": "2026-08-26",
   "windows": {
-    "url": "https://github.com/Jianraid0515/HealthCareSystem/releases/download/V2608.3.09/YSHMInstaller_v2608.3.09.exe",
+    "url": "https://github.com/Jianraid0515/HealthCareSystem/releases/download/V2608.3.08/YSHMInstaller_v2608.3.08.exe",
     "sha256": ""
   },
   "changelog": [
