@@ -1,15 +1,15 @@
 {
-  "latest_version": "2608.2.03",
-  "release_date": "2026-08-18",
+  "latest_version": "2608.3.08",
+  "release_date": "2026-08-26",
   "windows": {
-    "url": "https://github.com/Jianraid0515/HealthCareSystem/releases/download/V2608.2.03/YSHMInstaller_v2608.2.03.exe",
+    "url": "https://github.com/Jianraid0515/HealthCareSystem/releases/download/V2608.3.08/YSHMInstaller_v2608.3.08.exe",
     "sha256": ""
   },
   "changelog": [
     "1.線上更版支援",
     "2.健康配色新面板",
-    "3.新增操作圖標",
-    "4.修改設定介面配色",
+    "3.身高體重重測限次",
+    "4.設定排版異動",
     "5.新設備支援"
   ]
 }
