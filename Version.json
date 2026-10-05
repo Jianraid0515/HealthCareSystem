@@ -1,15 +1,13 @@
 {
-  "latest_version": "2608.3.08",
-  "release_date": "2026-08-26",
+  "latest_version": "2610.01.01",
+  "release_date": "2026-10-05",
   "windows": {
-    "url": "https://github.com/Jianraid0515/HealthCareSystem/releases/download/V2608.3.08/YSHMInstaller_v2608.3.08.exe",
+    "url": "https://github.com/Jianraid0515/HealthCareSystem/releases/download/V2610.01.01/YSHMInstaller_v2610.01.01.exe",
     "sha256": ""
   },
   "changelog": [
     "1.線上更版支援",
-    "2.健康配色新面板",
-    "3.身高體重重測限次",
-    "4.設定排版異動",
-    "5.新設備支援"
+    "2.增修血壓計讀取脈搏值",
+    "3.新增身高體重計GL-150",
   ]
 }
